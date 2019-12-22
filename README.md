@@ -6,6 +6,11 @@ README.md
 
 ***
 
+### Project scheme
+
+![](./project_plan.jpg "scheme")
+
+
 ### Project steps:
 ```
 1.    Push to GitHub repo reaction (Webhook).
